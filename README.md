@@ -29,7 +29,7 @@ Sistem Informasi Manajemen Rumah Sakit (SIMRS) - Backend
 3. **Konfigurasi Environment:**
    - Buat file `.env` di root folder:
      ```env
-     PORT=5000
+     PORT=3000
      DB_URI=mongodb://localhost:27017/simrs
      JWT_SECRET=your_secret_key
      ```
